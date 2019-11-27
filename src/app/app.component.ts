@@ -14,6 +14,7 @@ heatMap(Highcharts);
 })
 export class AppComponent {
   chart: Highcharts.Chart;
+  gender: any;
 
   ngOnInit() {
     this.init();
