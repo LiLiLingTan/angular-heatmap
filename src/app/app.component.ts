@@ -5,6 +5,7 @@ declare var require: any;
 const heatMap = require('highcharts/modules/heatmap.src');
 let More = require('highcharts/highcharts-more');
 let exporting = require('highcharts/modules/exporting.src');
+let offline = require('highcharts/modules/offline-exporting.src')
 
 More(Highcharts);
 heatMap(Highcharts);
@@ -117,13 +118,14 @@ export class AppComponent {
     let top = 0;
     let width = 0;
     charts.forEach(chart => {
+      console.log('[chart]: ' + chart.getSVG());
       var svg = chart.getSVG(),
         // Get width/height of SVG for export
         svgWidth = +svg.match(
           /^<svg[^>]*width\s*=\s*\"?(\d+)\"?[^>]*>/
         )[1],
         svgHeight = +svg.match(
-          /^<svg[^>]*height\s*=\s*\"?(\d+)\"?[^>]*>/
+          /^<svg[^>]*height\s*=(\s*\"?(\d+)\"?[^>]*>/
         )[1];
 
       svg = svg.replace(
@@ -145,8 +147,10 @@ export class AppComponent {
   onClickExport(options: any) {
     // Merge the options
     options = Highcharts.merge(Highcharts.getOptions().exporting, options);
-    Highcharts.downloadSVGLocal(this.getSVG([this.chart, this.lineChart])
-    , options, function () {
+    console.log(options);
+    const svgStr = this.getSVG([this.chart, this.lineChart]);
+    Highcharts.downloadSVGLocal(svgStr, options
+      , function () {
             console.log("Failed to export on client side");
         }
     ) 
