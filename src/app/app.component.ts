@@ -4,9 +4,11 @@ import * as Highcharts from 'highcharts';
 declare var require: any;
 const heatMap = require('highcharts/modules/heatmap.src');
 let More = require('highcharts/highcharts-more');
+let exporting = require('highcharts/modules/exporting.src');
 
 More(Highcharts);
 heatMap(Highcharts);
+exporting(Highcharts);
 
 @Component({
   selector: 'my-app',
@@ -14,6 +16,7 @@ heatMap(Highcharts);
 })
 export class AppComponent {
   chart: Highcharts.Chart;
+  lineChart: Highcharts.Chart;
   gender: any;
 
   ngOnInit() {
@@ -62,9 +65,51 @@ export class AppComponent {
             enabled: true,
             color: '#000000'
         }
-      }],         
+      }],
+      exporting: {
+        enabled: false, // hide button
+      }         
     });
     this.chart = chart;
+
+    let chart2 = new Highcharts.Chart('container2', {
+      chart: {
+        height: 200
+      },
+      title: {
+        text: 'First Chart'
+      },
+      credits: {
+        enabled: false
+      },
+      xAxis: {
+        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+        'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+        ]
+      },
+      series: [{
+        type: 'line',
+        data: [29.9, 71.5, 106.4, 129.2, 144.0, 176.0, 135.6, 148.5, 216.4, 194.1, 95.6, 54.4],
+        showInLegend: false
+      }],
+      exporting: {
+        enabled: false, // hide button
+        chartOptions: { // specific options for the exported image
+          plotOptions: {
+            series: {
+              dataLabels: {
+                enabled: true
+              }
+            }
+          }
+        },
+        fallbackToExportServer: false
+      }
+    });
+  }
+
+  onClickExport() {
+
   }
 
 }
