@@ -24,7 +24,11 @@ export class AppComponent {
   }
 
   init() {
-
+    Highcharts.setOptions({
+      exporting: {
+          fallbackToExportServer: false // Ensure the export happens on the client side or not at all
+      }
+    });
     let chart = new Highcharts.Chart('container', {
       chart: {
         type: 'heatmap',
@@ -93,7 +97,8 @@ export class AppComponent {
         showInLegend: false
       }],
       exporting: {
-        enabled: false, // hide button
+        enabled: true, // hide button
+        fallbackToExportServer: false,
         chartOptions: { // specific options for the exported image
           plotOptions: {
             series: {
@@ -103,13 +108,48 @@ export class AppComponent {
             }
           }
         },
-        fallbackToExportServer: false
       }
     });
   }
 
-  onClickExport() {
+  getSVG(charts: Highcharts.Chart[]) {
+    const svgArr = [];
+    let top = 0;
+    let width = 0;
+    charts.forEach(chart => {
+      var svg = chart.getSVG(),
+        // Get width/height of SVG for export
+        svgWidth = +svg.match(
+          /^<svg[^>]*width\s*=\s*\"?(\d+)\"?[^>]*>/
+        )[1],
+        svgHeight = +svg.match(
+          /^<svg[^>]*height\s*=\s*\"?(\d+)\"?[^>]*>/
+        )[1];
 
+      svg = svg.replace(
+        '<svg',
+        '<g transform="translate('+width+', 0 )" '
+      );
+      svg = svg.replace('</svg>', '</g>');
+
+      width += svgWidth;
+      top = Math.max(top, svgHeight);
+    
+      svgArr.push(svg);
+    });
+    return '<svg height="' + top + '" width="' + width +
+    '" version="1.1" xmlns="http://www.w3.org/2000/svg">' +
+    svgArr.join('') + '</svg>';
+  }
+
+  onClickExport(options: any) {
+    // Merge the options
+    options = Highcharts.merge(Highcharts.getOptions().exporting, options);
+    Highcharts.downloadSVGLocal(this.getSVG([this.chart, this.lineChart])
+    , options, function () {
+            console.log("Failed to export on client side");
+        }
+    ) 
   }
 
 }
