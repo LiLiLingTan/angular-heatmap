@@ -241,7 +241,7 @@ export class AppComponent {
       const svgWidth = +svg.match(/^<svg[^>]*width\s*=\s*\"?(\d+)\"?[^>]*>/)[1];
       console.log(`chart ${chart.title.textStr} : Width is ${svgWidth}`);
       const svgHeight = +svg.match(
-        /^<svg[^>]*width\s*=\s*\"?(\d+)\"?[^>]*>/
+        /^<svg[^>]*height\s*=\s*\"?(\d+)\"?[^>]*>/
       )[1];
       console.log(`chart ${chart.title.textStr}: Height is ${svgHeight}`);
       // svg = svg.replace("<svg", '<g transform="translate(' + width + ', 0 )" ');
