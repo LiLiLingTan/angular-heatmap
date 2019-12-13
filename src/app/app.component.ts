@@ -14,7 +14,8 @@ offline(Highcharts);
 
 @Component({
   selector: "my-app",
-  templateUrl: "./app.component.html"
+  templateUrl: "./app.component.html",
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
   chart: Highcharts.Chart;
@@ -151,7 +152,7 @@ export class AppComponent {
         text: "First Chart"
       },
       credits: {
-        enabled: false
+        enabled: true
       },
       xAxis: {
         categories: [
@@ -205,65 +206,27 @@ export class AppComponent {
       }
     });
 
-    this.chart3 = Highcharts.chart("container3", {
+    this.chart3 = Highcharts.chart('container3', {
       chart: {
-        height: 200
+        height: 200,
+        type: 'pie'
       },
       title: {
-        text: "Second Chart"
+        text: 'First Chart'
       },
       credits: {
         enabled: false
       },
-      xAxis: {
-        categories: [
-          "Jan",
-          "Feb",
-          "Mar",
-          "Apr",
-          "May",
-          "Jun",
-          "Jul",
-          "Aug",
-          "Sep",
-          "Oct",
-          "Nov",
-          "Dec"
+      series: [{
+        type: 'pie',
+        data: [
+          ['Apples', 5],
+          ['Pears', 9],
+          ['Oranges', 2]
         ]
-      },
-      series: [
-        {
-          type: "line",
-          data: [
-            29.9,
-            71.5,
-            106.4,
-            129.2,
-            144.0,
-            176.0,
-            135.6,
-            148.5,
-            216.4,
-            194.1,
-            95.6,
-            54.4
-          ],
-          showInLegend: false
-        }
-      ],
+      }],
       exporting: {
-        enabled: true, // hide button
-        fallbackToExportServer: false,
-        chartOptions: {
-          // specific options for the exported image
-          plotOptions: {
-            series: {
-              dataLabels: {
-                enabled: true
-              }
-            }
-          }
-        }
+        enabled: false // hide button
       }
     });
   }
@@ -281,16 +244,19 @@ export class AppComponent {
         /^<svg[^>]*width\s*=\s*\"?(\d+)\"?[^>]*>/
       )[1];
       console.log(`chart ${chart.title.textStr}: Height is ${svgHeight}`);
-      svg = svg.replace("<svg", '<g transform="translate(' + width + ', 0 )" ');
+      // svg = svg.replace("<svg", '<g transform="translate(' + width + ', 0 )" ');
+      // svg = svg.replace("</svg>", "</g>");
+      // width += svgWidth;
+      // top = Math.max(top, svgHeight);
       // Offset the position of this chart in the final SVG
-      // svg = svg.replace("<svg", '<g transform="translate(0,' + top + ')" ');
+      svg = svg.replace("<svg", '<g transform="translate(0,' + top + ')" ');
       svg = svg.replace("</svg>", "</g>");
-
-      width += svgWidth;
-      top = Math.max(top, svgHeight);
+      top += svgHeight;
+      width = Math.max(width, svgWidth);
       svgArr.push(svg);
     });
 
+    console.log(`Top: ${top}, Width: ${width}`);
     return (
       '<svg height="' +
       top +
@@ -302,9 +268,14 @@ export class AppComponent {
     );
   }
 
-  onClickExport(options: any) {
+  onClickExport(type) {
+    let options: Highcharts.Options = null;
     // Merge the options
     options = Highcharts.merge(Highcharts.getOptions().exporting, options);
+    if (type === 'pdf') {
+      options = Highcharts.merge(Highcharts.getOptions().exporting, {
+        type: 'application/pdf'})
+    }
     const svgStr = this.getSVG([this.chart, this.chart2, this.chart3]);
 
     Highcharts.downloadSVGLocal(svgStr, options, function() {
