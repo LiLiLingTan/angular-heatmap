@@ -1,0 +1,6212 @@
+[
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "19",
+        "val_Impute": "2301.0591566001"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "18",
+        "val_Impute": "2299.2645626965"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "19",
+        "val_Impute": "2303.8459738389"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "18",
+        "val": "2300.55",
+        "val_Impute": "2300.55"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "20",
+        "val_Impute": "2303.5775936863"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "17",
+        "val": "2291.97",
+        "val_Impute": "2291.97"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "20",
+        "val": "2316.44",
+        "val_Impute": "2316.44"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "17",
+        "val_Impute": "2301.3447867063"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "19",
+        "val_Impute": "2299.993729032"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "18",
+        "val_Impute": "2299.0508771867"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "21",
+        "val_Impute": "2305.9734709772"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "16",
+        "val_Impute": "2298.525316668"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "21",
+        "val_Impute": "2308.8595177276"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "16",
+        "val_Impute": "2300.2266800551"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "19",
+        "val_Impute": "2307.0550656042"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "18",
+        "val_Impute": "2305.273416822"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "20",
+        "val_Impute": "2301.1825600695"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "17",
+        "val_Impute": "2298.4010058942"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "20",
+        "val_Impute": "2308.7368162512"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "17",
+        "val_Impute": "2303.5824691705"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "21",
+        "val_Impute": "2302.7757520587"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "16",
+        "val_Impute": "2298.1035033357"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "22",
+        "val_Impute": "2307.9354394693"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "15",
+        "val_Impute": "2298.2417141065"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "22",
+        "val_Impute": "2310.5466031829"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "15",
+        "val_Impute": "2299.3535086448"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "21",
+        "val": "2304.93",
+        "val_Impute": "2304.93"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "16",
+        "val_Impute": "2302.0310931712"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "19",
+        "val_Impute": "2298.5959603331"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "18",
+        "val_Impute": "2298.3438730861"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "22",
+        "val_Impute": "2304.9093725779"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "15",
+        "val_Impute": "2297.9920909379"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "22",
+        "val_Impute": "2312.3388613584"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "20",
+        "val_Impute": "2298.9368452252"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "15",
+        "val_Impute": "2300.5687296741"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "17",
+        "val_Impute": "2298.2325689911"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "19",
+        "val_Impute": "2308.8415195865"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "18",
+        "val_Impute": "2307.1476925773"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "23",
+        "val_Impute": "2310.0396524147"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "14",
+        "val_Impute": "2297.8674090054"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "23",
+        "val_Impute": "2312.4951344065"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "14",
+        "val_Impute": "2298.4761361631"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "20",
+        "val_Impute": "2310.5095460078"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "17",
+        "val_Impute": "2305.31487639"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "21",
+        "val": "2286.49",
+        "val_Impute": "2286.49"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "16",
+        "val_Impute": "2298.2853932546"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "21",
+        "val_Impute": "2312.2010507586"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "16",
+        "val_Impute": "2303.2088909612"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "23",
+        "val_Impute": "2307.3734406463"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "14",
+        "val_Impute": "2297.9043191876"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "23",
+        "val_Impute": "2314.415318299"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "14",
+        "val_Impute": "2299.1602040771"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "22",
+        "val_Impute": "2302.0799056598"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "15",
+        "val_Impute": "2298.3447554758"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "24",
+        "val_Impute": "2312.1251073071"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "13",
+        "val_Impute": "2297.2752715743"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "24",
+        "val": "2314.24",
+        "val_Impute": "2314.24"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "13",
+        "val_Impute": "2297.3142318266"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "22",
+        "val_Impute": "2313.9587252716"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "15",
+        "val_Impute": "2300.9030950747"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "19",
+        "val_Impute": "2297.9470882175"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "18",
+        "val_Impute": "2297.8832632036"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "24",
+        "val_Impute": "2309.6964603158"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "13",
+        "val_Impute": "2297.5736806982"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "20",
+        "val_Impute": "2298.2402732328"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "17",
+        "val_Impute": "2297.9667848388"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "24",
+        "val_Impute": "2316.1771370758"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "23",
+        "val_Impute": "2304.5861616554"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "13",
+        "val": "2304.38",
+        "val_Impute": "2304.38"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "14",
+        "val_Impute": "2298.2240626916"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "19",
+        "val_Impute": "2309.3838836345"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "18",
+        "val_Impute": "2307.6795651864"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "23",
+        "val_Impute": "2315.217791886"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "14",
+        "val_Impute": "2297.9660487969"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "20",
+        "val_Impute": "2310.7536864271"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "17",
+        "val": "2313.57",
+        "val_Impute": "2313.57"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "21",
+        "val_Impute": "2298.3983623786"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "16",
+        "val_Impute": "2297.5713834047"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "25",
+        "val": "2308.73",
+        "val_Impute": "2308.73"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "12",
+        "val_Impute": "2295.0870612888"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "25",
+        "val_Impute": "2315.0383309201"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "12",
+        "val_Impute": "2294.3387790094"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "21",
+        "val_Impute": "2311.4872752328"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "16",
+        "val_Impute": "2301.6307290441"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "22",
+        "val_Impute": "2298.7283689369"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "15",
+        "val_Impute": "2296.8342735318"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "24",
+        "val_Impute": "2305.2133832529"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "13",
+        "val": "2292.42",
+        "val_Impute": "2292.42"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "25",
+        "val_Impute": "2310.1294711784"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "12",
+        "val_Impute": "2295.3249518865"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "25",
+        "val_Impute": "2315.916566087"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "12",
+        "val_Impute": "2292.7860832957"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "24",
+        "val_Impute": "2315.2658760014"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "13",
+        "val_Impute": "2293.728833071"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "22",
+        "val_Impute": "2312.3862490818"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "15",
+        "val_Impute": "2297.8805569446"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "23",
+        "val_Impute": "2300.0760192215"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "14",
+        "val_Impute": "2296.8095053164"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "26",
+        "val_Impute": "2313.7795690749"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "11",
+        "val_Impute": "2292.6925655589"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "26",
+        "val_Impute": "2315.6258486744"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "11",
+        "val_Impute": "2291.2415837836"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "23",
+        "val_Impute": "2313.4674633614"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "14",
+        "val_Impute": "2294.402010565"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "19",
+        "val_Impute": "2294.6114458243"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "18",
+        "val_Impute": "2294.6574279639"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "25",
+        "val_Impute": "2306.9177626173"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "12",
+        "val_Impute": "2296.1109195084"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "20",
+        "val_Impute": "2294.7309445943"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "17",
+        "val": "2293.72",
+        "val_Impute": "2293.72"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "25",
+        "val_Impute": "2316.2144221189"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "12",
+        "val_Impute": "2290.2590033757"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "26",
+        "val_Impute": "2311.7506948414"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "11",
+        "val_Impute": "2294.2081325177"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "19",
+        "val_Impute": "2305.8228136504"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "18",
+        "val_Impute": "2303.5644251381"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "26",
+        "val_Impute": "2316.824288665"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "11",
+        "val_Impute": "2289.4164561972"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "21",
+        "val_Impute": "2295.1506379093"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "16",
+        "val_Impute": "2295.2584735164"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "20",
+        "val_Impute": "2307.8509363608"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "17",
+        "val_Impute": "2300.9989681271"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "24",
+        "val_Impute": "2301.6058028029"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "13",
+        "val_Impute": "2297.0156936331"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "24",
+        "val_Impute": "2314.5800237917"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "13",
+        "val_Impute": "2290.9874150674"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "21",
+        "val_Impute": "2309.542075"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "16",
+        "val_Impute": "2298.0353752424"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "22",
+        "val_Impute": "2295.8821521947"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "15",
+        "val_Impute": "2295.8079662391"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "27",
+        "val_Impute": "2315.1670272447"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "10",
+        "val_Impute": "2290.8841792773"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "27",
+        "val_Impute": "2316.6853503364"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "10",
+        "val_Impute": "2288.7857690109"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "26",
+        "val_Impute": "2308.7282929558"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "11",
+        "val_Impute": "2296.006603301"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "22",
+        "val_Impute": "2310.790670173"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "15",
+        "val_Impute": "2294.8114309922"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "26",
+        "val_Impute": "2317.1825916605"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "11",
+        "val_Impute": "2286.869533953"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "25",
+        "val_Impute": "2303.0725311036"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "12",
+        "val_Impute": "2297.4737160576"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "27",
+        "val_Impute": "2313.4548775013"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "10",
+        "val_Impute": "2293.2263530897"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "23",
+        "val_Impute": "2296.8598932954"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "14",
+        "val_Impute": "2296.4707501426"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "27",
+        "val_Impute": "2317.7748919489"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "10",
+        "val_Impute": "2286.4459342998"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "25",
+        "val": "2317.63",
+        "val_Impute": "2317.63"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "12",
+        "val_Impute": "2287.575693964"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "23",
+        "val_Impute": "2311.5648129329"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "14",
+        "val_Impute": "2291.2935047268"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "19",
+        "val_Impute": "2291.8396615477"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "18",
+        "val_Impute": "2292.1452479488"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "24",
+        "val_Impute": "2297.2471989185"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "13",
+        "val_Impute": "2296.5634708279"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "27",
+        "val_Impute": "2309.7024023706"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "20",
+        "val_Impute": "2291.5221318205"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "17",
+        "val_Impute": "2292.4263610301"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "10",
+        "val_Impute": "2294.9459311734"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "28",
+        "val_Impute": "2315.250590888"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "9",
+        "val": "2286.1",
+        "val_Impute": "2286.1"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "26",
+        "val_Impute": "2303.3187142162"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "28",
+        "val_Impute": "2316.5342178286"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "11",
+        "val_Impute": "2297.0725846423"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "9",
+        "val_Impute": "2285.5969094708"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "27",
+        "val_Impute": "2316.9155135822"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "10",
+        "val_Impute": "2282.5157218966"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "24",
+        "val_Impute": "2311.4619844694"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "13",
+        "val_Impute": "2287.0074715093"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "19",
+        "val_Impute": "2301.3450922575"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "18",
+        "val_Impute": "2298.7452807925"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "21",
+        "val_Impute": "2291.0346292102"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "16",
+        "val_Impute": "2292.4535516724"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "26",
+        "val_Impute": "2314.9662098816"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "11",
+        "val_Impute": "2282.6710478609"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "20",
+        "val_Impute": "2303.5167420093"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "17",
+        "val_Impute": "2295.673592384"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "28",
+        "val_Impute": "2312.9454697822"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "9",
+        "val_Impute": "2290.4184194786"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "28",
+        "val_Impute": "2316.4627977054"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "9",
+        "val_Impute": "2281.7035543031"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "21",
+        "val": "2314.99",
+        "val_Impute": "2314.99"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "16",
+        "val_Impute": "2292.0668678151"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "22",
+        "val_Impute": "2289.4675674798"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "15",
+        "val_Impute": "2291.1898061021"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "25",
+        "val": "2299.38",
+        "val_Impute": "2299.38"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "12",
+        "val_Impute": "2294.0966057564"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "25",
+        "val_Impute": "2309.0352727026"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "12",
+        "val_Impute": "2280.5336905542"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "22",
+        "val_Impute": "2303.6579582963"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "15",
+        "val_Impute": "2286.8337921178"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "27",
+        "val_Impute": "2300.4849564385"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "10",
+        "val_Impute": "2293.8724057864"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "28",
+        "val_Impute": "2307.5656764382"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "23",
+        "val_Impute": "2288.6305409582"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "14",
+        "val_Impute": "2290.8152903357"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "9",
+        "val_Impute": "2290.6779045105"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "28",
+        "val_Impute": "2313.726857416"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "9",
+        "val_Impute": "2275.9035936712"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "27",
+        "val_Impute": "2312.236561882"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "10",
+        "val_Impute": "2275.8877896758"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "29",
+        "val_Impute": "2311.4700967628"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "8",
+        "val_Impute": "2283.1352926227"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "29",
+        "val_Impute": "2312.7716289007"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "8",
+        "val_Impute": "2279.7749656731"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "23",
+        "val_Impute": "2303.7018386758"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "14",
+        "val_Impute": "2283.1098041042"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "26",
+        "val_Impute": "2293.9698662884"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "11",
+        "val_Impute": "2294.2695397619"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "29",
+        "val_Impute": "2309.712975729"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "8",
+        "val_Impute": "2286.1534848703"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "29",
+        "val": "2314.73",
+        "val_Impute": "2314.73"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "24",
+        "val_Impute": "2288.4018481929"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "8",
+        "val_Impute": "2275.9837638901"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "13",
+        "val_Impute": "2291.1244231739"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "26",
+        "val_Impute": "2308.5109388319"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "11",
+        "val_Impute": "2276.0401217372"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "24",
+        "val_Impute": "2301.9224292567"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "13",
+        "val": "2274.96",
+        "val_Impute": "2274.96"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "19",
+        "val_Impute": "2282.9125988926"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "18",
+        "val_Impute": "2283.3504073215"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "20",
+        "val_Impute": "2281.5816361151"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "17",
+        "val_Impute": "2282.9585817257"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "28",
+        "val_Impute": "2297.0494715695"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "9",
+        "val_Impute": "2290.1899341873"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "29",
+        "val": "2330.16",
+        "val_Impute": "2330.16"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "8",
+        "val_Impute": "2284.4356934856"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "28",
+        "val_Impute": "2305.5860436383"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "9",
+        "val": "2256.13",
+        "val_Impute": "2256.13"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "21",
+        "val": "2268.6",
+        "val_Impute": "2268.6"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "19",
+        "val_Impute": "2282.2843038688"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "16",
+        "val_Impute": "2276.3951643252"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "18",
+        "val_Impute": "2279.7574716006"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "25",
+        "val_Impute": "2278.2288474541"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "12",
+        "val_Impute": "2281.9395126659"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "29",
+        "val_Impute": "2302.8572428867"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "8",
+        "val_Impute": "2262.5179425694"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "27",
+        "val_Impute": "2282.9754405823"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "10",
+        "val_Impute": "2284.7455255733"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "20",
+        "val_Impute": "2284.1354504599"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "17",
+        "val_Impute": "2276.6688159866"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "30",
+        "val_Impute": "2299.1993039751"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "7",
+        "val_Impute": "2270.7736779611"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "30",
+        "val_Impute": "2300.5647237516"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "7",
+        "val_Impute": "2266.6841392317"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "27",
+        "val_Impute": "2298.0720341153"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "10",
+        "val_Impute": "2261.9278775422"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "25",
+        "val_Impute": "2293.1743559059"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "12",
+        "val_Impute": "2265.1687429718"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "22",
+        "val_Impute": "2273.052415866"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "21",
+        "val_Impute": "2285.1146637049"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "15",
+        "val_Impute": "2275.9397489875"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "16",
+        "val_Impute": "2273.0895100228"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "30",
+        "val_Impute": "2296.1165302508"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "7",
+        "val_Impute": "2273.2016625694"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "30",
+        "val_Impute": "2300.2529702115"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "7",
+        "val_Impute": "2261.4781094683"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "22",
+        "val_Impute": "2285.099606612"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "15",
+        "val_Impute": "2269.0547448013"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "23",
+        "val_Impute": "2271.7037214726"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "14",
+        "val_Impute": "2275.2417882521"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "26",
+        "val_Impute": "2275.1627600111"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "11",
+        "val_Impute": "2280.3987394801"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "29",
+        "val_Impute": "2285.8568120851"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "8",
+        "val_Impute": "2279.5317201416"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "29",
+        "val_Impute": "2298.0986411363"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "28",
+        "val_Impute": "2278.6782298905"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "8",
+        "val_Impute": "2256.09893947"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "9",
+        "val": "2293.36",
+        "val_Impute": "2293.36"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "26",
+        "val_Impute": "2290.8754842852"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "11",
+        "val_Impute": "2259.1945657388"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "23",
+        "val_Impute": "2283.9474589213"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "14",
+        "val_Impute": "2264.1831934024"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "30",
+        "val_Impute": "2289.5425000664"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "7",
+        "val_Impute": "2273.2193867686"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "30",
+        "val_Impute": "2295.1403140049"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "7",
+        "val_Impute": "2253.1149357598"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "28",
+        "val_Impute": "2291.4259809182"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "9",
+        "val_Impute": "2251.9830964934"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "24",
+        "val_Impute": "2266.0285346513"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "13",
+        "val": "2270.36",
+        "val_Impute": "2270.36"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "31",
+        "val_Impute": "2288.9991140144"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "6",
+        "val_Impute": "2261.8737160338"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "31",
+        "val_Impute": "2290.5551124555"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "6",
+        "val_Impute": "2257.1967164752"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "24",
+        "val_Impute": "2279.1504918124"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "13",
+        "val_Impute": "2256.0343757402"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "27",
+        "val_Impute": "2267.5946876914"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "10",
+        "val_Impute": "2274.8887711474"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "31",
+        "val_Impute": "2285.2575584436"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "6",
+        "val_Impute": "2264.4977482119"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "31",
+        "val_Impute": "2290.5578060444"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "6",
+        "val_Impute": "2251.3510362295"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "19",
+        "val_Impute": "2262.5704499784"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "18",
+        "val_Impute": "2262.7640934699"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "27",
+        "val_Impute": "2284.8812692854"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "25",
+        "val_Impute": "2263.6390220194"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "10",
+        "val_Impute": "2249.9795013288"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "12",
+        "val_Impute": "2269.4588319183"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "20",
+        "val_Impute": "2262.0780922265"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "17",
+        "val_Impute": "2262.7618224087"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "30",
+        "val_Impute": "2275.7217361786"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "7",
+        "val_Impute": "2271.139161771"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "29",
+        "val_Impute": "2269.8284745819"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "8",
+        "val_Impute": "2274.5006075316"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "21",
+        "val_Impute": "2261.279635026"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "16",
+        "val_Impute": "2262.661777669"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "30",
+        "val_Impute": "2290.0346940006"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "7",
+        "val_Impute": "2246.918045346"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "25",
+        "val_Impute": "2277.6683208317"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "12",
+        "val_Impute": "2251.2104446098"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "19",
+        "val_Impute": "2264.9738374816"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "18",
+        "val_Impute": "2262.556192859"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "29",
+        "val_Impute": "2287.5093139305"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "8",
+        "val_Impute": "2246.128201923"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "20",
+        "val_Impute": "2266.7349181037"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "17",
+        "val": "2257.88",
+        "val_Impute": "2257.88"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "31",
+        "val_Impute": "2278.6253339133"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "6",
+        "val_Impute": "2265.5106247554"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "31",
+        "val_Impute": "2288.8664732101"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "22",
+        "val_Impute": "2259.8932039314"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "6",
+        "val_Impute": "2246.6388766681"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "15",
+        "val_Impute": "2262.1064554573"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "21",
+        "val_Impute": "2267.3792826882"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "16",
+        "val_Impute": "2256.0996399812"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "28",
+        "val_Impute": "2262.9385655971"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "9",
+        "val_Impute": "2272.5383763537"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "26",
+        "val_Impute": "2260.2595312492"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "11",
+        "val_Impute": "2267.8205059431"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "32",
+        "val_Impute": "2281.4248782254"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "28",
+        "val_Impute": "2281.3548828422"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "9",
+        "val_Impute": "2243.594878211"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "5",
+        "val_Impute": "2256.897040412"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "22",
+        "val_Impute": "2267.0816587076"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "32",
+        "val_Impute": "2283.0088149865"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "15",
+        "val_Impute": "2252.0506628749"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "5",
+        "val_Impute": "2251.84072"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "23",
+        "val_Impute": "2257.6170240139"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "14",
+        "val_Impute": "2260.8448356471"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "26",
+        "val_Impute": "2274.886730447"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "11",
+        "val_Impute": "2245.1911978502"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "32",
+        "val_Impute": "2276.4659805751"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "5",
+        "val_Impute": "2259.0091351594"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "32",
+        "val_Impute": "2282.669668245"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "5",
+        "val": "2226.69",
+        "val_Impute": "2226.69"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "30",
+        "val_Impute": "2262.2960988978"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "7",
+        "val_Impute": "2268.5321264793"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "31",
+        "val_Impute": "2266.5414495142"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "23",
+        "val_Impute": "2265.6504526311"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "14",
+        "val_Impute": "2247.2341801101"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "6",
+        "val_Impute": "2264.7164140513"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "24",
+        "val_Impute": "2253.8532064835"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "13",
+        "val_Impute": "2258.3166776213"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "31",
+        "val_Impute": "2282.6911104757"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "6",
+        "val_Impute": "2239.1385012873"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "30",
+        "val_Impute": "2280.5107872122"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "7",
+        "val_Impute": "2238.0983056141"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "27",
+        "val_Impute": "2254.3351225199"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "10",
+        "val_Impute": "2264.1399835628"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "29",
+        "val_Impute": "2254.8341966006"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "8",
+        "val_Impute": "2266.4463220287"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "32",
+        "val_Impute": "2266.3867948936"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "5",
+        "val": "2245.02",
+        "val_Impute": "2245.02"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "27",
+        "val_Impute": "2268.2338810104"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "24",
+        "val_Impute": "2260.5169817683"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "10",
+        "val_Impute": "2235.4354635915"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "13",
+        "val_Impute": "2239.0191345301"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "32",
+        "val_Impute": "2276.3648697585"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "5",
+        "val_Impute": "2234.9334524371"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "29",
+        "val": "2275.25",
+        "val_Impute": "2275.25"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "8",
+        "val_Impute": "2231.1638870671"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "25",
+        "val_Impute": "2245.0913693241"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "12",
+        "val_Impute": "2250.9374497257"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "33",
+        "val": "2272.54",
+        "val_Impute": "2272.54"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "4",
+        "val_Impute": "2243.3999155724"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "33",
+        "val_Impute": "2265.1589901052"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "19",
+        "val_Impute": "2242.4790615632"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "18",
+        "val_Impute": "2242.2025339375"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "4",
+        "val_Impute": "2237.6543419366"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "28",
+        "val_Impute": "2238.9040468873"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "25",
+        "val": "2244.18",
+        "val_Impute": "2244.18"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "9",
+        "val_Impute": "2250.8729867541"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "12",
+        "val_Impute": "2224.2282780079"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "20",
+        "val_Impute": "2235.704835519"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "17",
+        "val": "2229.04",
+        "val_Impute": "2229.04"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "31",
+        "val_Impute": "2238.3158863775"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "6",
+        "val_Impute": "2247.1086351816"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "33",
+        "val_Impute": "2250.8470946176"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "4",
+        "val_Impute": "2237.9519065405"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "32",
+        "val_Impute": "2241.3538255266"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "5",
+        "val_Impute": "2243.1482529644"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "21",
+        "val_Impute": "2234.1958910479"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "16",
+        "val_Impute": "2234.0208752511"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "33",
+        "val_Impute": "2257.666590246"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "4",
+        "val_Impute": "2223.9255931053"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "31",
+        "val_Impute": "2259.2155616787"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "6",
+        "val_Impute": "2216.8806018894"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "28",
+        "val_Impute": "2251.9132106605"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "9",
+        "val_Impute": "2216.9543191935"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "19",
+        "val_Impute": "2232.357545174"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "18",
+        "val_Impute": "2230.0440286178"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "30",
+        "val_Impute": "2233.8449451985"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "7",
+        "val_Impute": "2247.1495478322"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "26",
+        "val_Impute": "2232.0235430601"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "32",
+        "val_Impute": "2260.9242786112"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "11",
+        "val_Impute": "2239.2446613393"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "5",
+        "val_Impute": "2217.9156663834"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "20",
+        "val_Impute": "2233.834363337"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "17",
+        "val_Impute": "2227.0773129007"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "22",
+        "val_Impute": "2232.4524937558"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "15",
+        "val_Impute": "2233.0108401505"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "30",
+        "val_Impute": "2254.4595448855"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "7",
+        "val_Impute": "2214.158151979"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "21",
+        "val_Impute": "2234.380417177"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "16",
+        "val_Impute": "2223.6337069995"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "26",
+        "val_Impute": "2243.0171775185"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "11",
+        "val_Impute": "2215.9106271898"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "33",
+        "val_Impute": "2242.1236472824"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "4",
+        "val_Impute": "2237.3408423311"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "33",
+        "val_Impute": "2255.7915772247"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "4",
+        "val_Impute": "2217.7145366517"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "22",
+        "val_Impute": "2233.9792641763"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "15",
+        "val_Impute": "2219.8130411335"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "23",
+        "val_Impute": "2229.870672204"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "14",
+        "val_Impute": "2231.4396899647"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "29",
+        "val": "2214.57",
+        "val_Impute": "2214.57"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "8",
+        "val": "2250.24",
+        "val_Impute": "2250.24"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "27",
+        "val_Impute": "2223.9407696232"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "10",
+        "val_Impute": "2232.6769910885"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "29",
+        "val_Impute": "2243.2834298531"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "8",
+        "val_Impute": "2206.6661655308"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "23",
+        "val_Impute": "2229.8061602714"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "14",
+        "val_Impute": "2212.704459713"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "32",
+        "val_Impute": "2224.6642720153"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "5",
+        "val_Impute": "2236.8784949069"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "34",
+        "val_Impute": "2241.4121120897"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "3",
+        "val_Impute": "2226.7317857691"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "34",
+        "val_Impute": "2243.3085492543"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "24",
+        "val_Impute": "2223.6034984432"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "13",
+        "val_Impute": "2226.5789218285"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "3",
+        "val_Impute": "2221.8553525291"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "27",
+        "val_Impute": "2236.724285365"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "10",
+        "val_Impute": "2207.0872667781"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "31",
+        "val_Impute": "2222.7243360317"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "6",
+        "val_Impute": "2237.8184975179"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "32",
+        "val_Impute": "2248.2196030752"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "5",
+        "val_Impute": "2206.9116329404"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "33",
+        "val_Impute": "2227.8446651309"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "4",
+        "val_Impute": "2233.4926337375"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "34",
+        "val_Impute": "2236.6241284447"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "3",
+        "val_Impute": "2229.1780972941"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "34",
+        "val_Impute": "2243.7694438046"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "3",
+        "val_Impute": "2215.7032081162"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "33",
+        "val": "2267.97",
+        "val_Impute": "2267.97"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "4",
+        "val_Impute": "2208.3641666146"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "31",
+        "val_Impute": "2244.2976616887"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "6",
+        "val_Impute": "2204.4492096757"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "24",
+        "val_Impute": "2228.4299392712"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "13",
+        "val_Impute": "2208.6216830641"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "25",
+        "val": "2207.65",
+        "val_Impute": "2207.65"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "12",
+        "val_Impute": "2223.8012961644"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "28",
+        "val_Impute": "2218.7126097761"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "9",
+        "val_Impute": "2229.1307944655"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "30",
+        "val_Impute": "2217.6089955247"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "7",
+        "val_Impute": "2233.8321435014"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "34",
+        "val_Impute": "2227.5584184167"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "3",
+        "val_Impute": "2227.7665369085"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "34",
+        "val_Impute": "2240.9513627171"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "3",
+        "val_Impute": "2207.5843393719"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "30",
+        "val_Impute": "2236.111194008"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "28",
+        "val_Impute": "2231.3082192537"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "25",
+        "val_Impute": "2224.5229894347"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "7",
+        "val_Impute": "2198.6388747864"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "9",
+        "val": "2204.74",
+        "val_Impute": "2204.74"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "12",
+        "val_Impute": "2202.109567744"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "19",
+        "val_Impute": "2218.4479315263"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "18",
+        "val_Impute": "2218.0624460766"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "20",
+        "val_Impute": "2218.8558199576"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "17",
+        "val_Impute": "2217.8106565218"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "26",
+        "val_Impute": "2216.1949250616"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "11",
+        "val_Impute": "2221.1717533141"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "33",
+        "val": "2193.53",
+        "val_Impute": "2193.53"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "4",
+        "val_Impute": "2230.3791412248"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "32",
+        "val_Impute": "2214.3539826608"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "5",
+        "val_Impute": "2231.5685815627"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "21",
+        "val_Impute": "2218.9517311256"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "16",
+        "val_Impute": "2217.5249252582"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "33",
+        "val_Impute": "2239.8125643043"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "35",
+        "val_Impute": "2230.1495960865"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "4",
+        "val_Impute": "2200.5905996268"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "2",
+        "val_Impute": "2221.9821163529"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "35",
+        "val_Impute": "2232.1832637822"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "19",
+        "val_Impute": "2211.7584455221"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "18",
+        "val_Impute": "2209.3668988651"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "2",
+        "val_Impute": "2217.084439249"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "29",
+        "val_Impute": "2214.2930997103"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "8",
+        "val_Impute": "2226.3563300583"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "32",
+        "val_Impute": "2236.5779769009"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "34",
+        "val_Impute": "2218.6421764001"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "5",
+        "val": "2201.34",
+        "val_Impute": "2201.34"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "26",
+        "val_Impute": "2223.7232778625"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "20",
+        "val_Impute": "2213.4518706724"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "17",
+        "val_Impute": "2206.5493192428"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "11",
+        "val_Impute": "2198.7144105521"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "3",
+        "val_Impute": "2227.607713617"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "22",
+        "val_Impute": "2217.8823576906"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "15",
+        "val_Impute": "2216.3414671835"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "35",
+        "val_Impute": "2224.9061252205"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "34",
+        "val_Impute": "2238.1531638704"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "2",
+        "val_Impute": "2223.0003740302"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "3",
+        "val_Impute": "2201.2900274588"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "31",
+        "val_Impute": "2211.2242327905"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "6",
+        "val_Impute": "2228.0389130287"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "21",
+        "val_Impute": "2212.8521483275"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "16",
+        "val_Impute": "2202.2112671042"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "35",
+        "val": "2232.51",
+        "val_Impute": "2232.51"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "2",
+        "val_Impute": "2209.3645790577"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "29",
+        "val_Impute": "2227.5790114603"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "8",
+        "val_Impute": "2194.346961052"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "27",
+        "val_Impute": "2212.8030791645"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "10",
+        "val_Impute": "2218.3199445671"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "23",
+        "val_Impute": "2216.5610094187"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "14",
+        "val_Impute": "2215.2360530504"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "31",
+        "val_Impute": "2231.2909889133"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "6",
+        "val_Impute": "2194.1034797689"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "22",
+        "val_Impute": "2214.091103978"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "15",
+        "val_Impute": "2200.6744939674"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "35",
+        "val_Impute": "2220.2646828641"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "2",
+        "val_Impute": "2225.2207252532"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "27",
+        "val_Impute": "2222.3860074185"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "10",
+        "val_Impute": "2195.2314559002"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "35",
+        "val_Impute": "2233.5063822441"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "2",
+        "val_Impute": "2205.9423915238"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "23",
+        "val_Impute": "2215.3402220192"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "14",
+        "val_Impute": "2199.7965793218"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "24",
+        "val_Impute": "2216.7628001144"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "13",
+        "val_Impute": "2215.9935198618"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "30",
+        "val_Impute": "2211.9962195201"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "7",
+        "val_Impute": "2225.282349469"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "33",
+        "val_Impute": "2209.9659224132"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "4",
+        "val_Impute": "2229.4142151761"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "34",
+        "val_Impute": "2210.982392445"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "3",
+        "val_Impute": "2228.288970809"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "28",
+        "val_Impute": "2213.4135847116"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "9",
+        "val_Impute": "2219.779479358"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "34",
+        "val_Impute": "2235.4738219645"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "33",
+        "val_Impute": "2232.9701657022"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "3",
+        "val_Impute": "2199.4280781154"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "4",
+        "val_Impute": "2196.8502144263"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "30",
+        "val_Impute": "2228.2723914542"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "24",
+        "val_Impute": "2216.4915883775"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "7",
+        "val_Impute": "2194.0085044538"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "13",
+        "val": "2204.42",
+        "val_Impute": "2204.42"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "32",
+        "val_Impute": "2211.0335922917"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "5",
+        "val_Impute": "2229.3016079125"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "25",
+        "val_Impute": "2216.5344635104"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "12",
+        "val_Impute": "2216.7311312101"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "36",
+        "val_Impute": "2224.8311457574"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "35",
+        "val_Impute": "2215.7906584013"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "1",
+        "val_Impute": "2223.4138073824"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "36",
+        "val_Impute": "2226.877642068"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "2",
+        "val_Impute": "2227.8434054688"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "1",
+        "val_Impute": "2218.2141221257"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "28",
+        "val_Impute": "2223.6206235909"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "9",
+        "val_Impute": "2194.7373287798"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "35",
+        "val_Impute": "2235.0344230711"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "2",
+        "val_Impute": "2203.5419789004"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "32",
+        "val_Impute": "2230.7621206387"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "5",
+        "val_Impute": "2194.8797055467"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "36",
+        "val_Impute": "2222.6573360057"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "1",
+        "val_Impute": "2226.3876832271"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "36",
+        "val_Impute": "2228.7411418557"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "1",
+        "val_Impute": "2213.3199228068"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "25",
+        "val_Impute": "2217.8053985724"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "12",
+        "val_Impute": "2197.9688126527"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "31",
+        "val_Impute": "2212.8161338341"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "6",
+        "val_Impute": "2227.1650906359"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "26",
+        "val_Impute": "2216.4128554205"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "11",
+        "val_Impute": "2217.5236832898"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "29",
+        "val_Impute": "2214.2977171663"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "8",
+        "val_Impute": "2221.6875625384"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "19",
+        "val_Impute": "2217.8073172804"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "18",
+        "val_Impute": "2217.3095599134"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "36",
+        "val_Impute": "2219.8407431923"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "1",
+        "val_Impute": "2228.9175765557"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "20",
+        "val_Impute": "2218.6157480676"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "17",
+        "val": "2217.9",
+        "val_Impute": "2217.9"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "36",
+        "val_Impute": "2231.3709100168"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "1",
+        "val_Impute": "2209.6022096297"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "31",
+        "val_Impute": "2228.7744903837"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "6",
+        "val_Impute": "2194.228136979"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "34",
+        "val_Impute": "2210.1412405228"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "8",
+        "probe_y": "3",
+        "val_Impute": "2231.204628677"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "29",
+        "val_Impute": "2224.660481668"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "26",
+        "val_Impute": "2218.935108146"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "11",
+        "val_Impute": "2196.7882769123"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "8",
+        "val_Impute": "2194.5960812245"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "21",
+        "val": "2221.89",
+        "val_Impute": "2221.89"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "16",
+        "val_Impute": "2216.9154418763"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "35",
+        "val_Impute": "2211.5422791473"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "7",
+        "probe_y": "2",
+        "val": "2229.52",
+        "val_Impute": "2229.52"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "34",
+        "val_Impute": "2231.0413703578"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "33",
+        "val_Impute": "2210.0145385809"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-3",
+        "probe_y": "3",
+        "val_Impute": "2197.4486938593"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "9",
+        "probe_y": "4",
+        "val_Impute": "2230.0744769197"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "19",
+        "val_Impute": "2207.0903082106"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "18",
+        "val_Impute": "2204.6051642905"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "35",
+        "val_Impute": "2232.6961655298"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-2",
+        "probe_y": "2",
+        "val_Impute": "2200.2103727738"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "20",
+        "val": "2214.73",
+        "val_Impute": "2214.73"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "17",
+        "val_Impute": "2201.6932141063"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "22",
+        "val_Impute": "2219.0678091146"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "15",
+        "val_Impute": "2215.8145350036"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "27",
+        "val_Impute": "2215.360703638"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "12",
+        "probe_y": "10",
+        "val_Impute": "2217.194365025"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "33",
+        "val_Impute": "2230.0653268735"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "21",
+        "val_Impute": "2212.5387010351"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-4",
+        "probe_y": "4",
+        "val": "2194.23",
+        "val_Impute": "2194.23"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "16",
+        "val": "2193.21",
+        "val_Impute": "2193.21"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "36",
+        "val_Impute": "2220.6537181336"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "6",
+        "probe_y": "1",
+        "val_Impute": "2235.4131950383"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "37",
+        "val": "2223.64",
+        "val_Impute": "2223.64"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "3",
+        "probe_y": "0",
+        "val": "2250.46",
+        "val_Impute": "2250.46"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "37",
+        "val_Impute": "2232.5852443515"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "30",
+        "val": "2229.72",
+        "val_Impute": "2229.72"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "23",
+        "val_Impute": "2232.2740754819"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "11",
+        "probe_y": "7",
+        "val": "2231.29",
+        "val_Impute": "2231.29"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "14",
+        "val_Impute": "2228.7118911901"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "2",
+        "probe_y": "0",
+        "val_Impute": "2232.8323142726"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "36",
+        "val_Impute": "2245.3014623521"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-1",
+        "probe_y": "1",
+        "val_Impute": "2219.5576008371"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "27",
+        "val_Impute": "2234.1746745453"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "22",
+        "val_Impute": "2227.1515283699"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "15",
+        "val_Impute": "2214.6749953"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-7",
+        "probe_y": "10",
+        "val_Impute": "2210.3946637422"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "32",
+        "val": "2234.38",
+        "val_Impute": "2234.38"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "10",
+        "probe_y": "5",
+        "val_Impute": "2244.936933485"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "37",
+        "val_Impute": "2238.5394708845"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "4",
+        "probe_y": "0",
+        "val_Impute": "2246.8723516652"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "37",
+        "val": "2233.71",
+        "val_Impute": "2233.71"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "1",
+        "probe_y": "0",
+        "val_Impute": "2234.5074465521"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "30",
+        "val_Impute": "2243.6448581506"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-6",
+        "probe_y": "7",
+        "val_Impute": "2213.0451928352"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "32",
+        "val": "2251.81",
+        "val_Impute": "2251.81"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "23",
+        "val_Impute": "2233.0740980367"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-8",
+        "probe_y": "14",
+        "val_Impute": "2219.5181365662"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "-5",
+        "probe_y": "5",
+        "val": "2209.58",
+        "val_Impute": "2209.58"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "24",
+        "val": "2261.78",
+        "val_Impute": "2261.78"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "13",
+        "probe_y": "13",
+        "val": "2242.09",
+        "val_Impute": "2242.09"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "12",
+        "probe_y": "28",
+        "val_Impute": "2238.168804259"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "12",
+        "probe_y": "9",
+        "val": "2230.73",
+        "val_Impute": "2230.73"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "37",
+        "val": "2244.97",
+        "val_Impute": "2244.97"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "8",
+        "probe_y": "35",
+        "val": "2230.71",
+        "val_Impute": "2230.71"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "8",
+        "probe_y": "2",
+        "val_Impute": "2255.4321704702"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "5",
+        "probe_y": "0",
+        "val": "2261.47",
+        "val_Impute": "2261.47"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": ".",
+        "probe_x": "0",
+        "probe_y": "37",
+        "val_Impute": "2251.9157030906"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "<",
+        "probe_x": "0",
+        "probe_y": "0",
+        "val": "2237.57",
+        "val_Impute": "2237.57"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "9",
+        "probe_y": "34",
+        "val_Impute": "2233.8831442752"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-7",
+        "probe_y": "28",
+        "val": "2240.74",
+        "val_Impute": "2240.74"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-8",
+        "probe_y": "24",
+        "val": "2232.95",
+        "val_Impute": "2232.95"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "9",
+        "probe_y": "3",
+        "val": "2263.89",
+        "val_Impute": "2263.89"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-8",
+        "probe_y": "13",
+        "val_Impute": "2221.4260065152"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-7",
+        "probe_y": "9",
+        "val": "2210.17",
+        "val_Impute": "2210.17"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "7",
+        "probe_y": "36",
+        "val_Impute": "2234.3835307406"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "7",
+        "probe_y": "1",
+        "val_Impute": "2253.7468671892"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-3",
+        "probe_y": "35",
+        "val_Impute": "2252.6930858228"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-3",
+        "probe_y": "2",
+        "val_Impute": "2221.8719179124"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "13",
+        "probe_y": "25",
+        "val_Impute": "2243.0401757537"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "13",
+        "probe_y": "12",
+        "val_Impute": "2239.8781220723"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-2",
+        "probe_y": "36",
+        "val": "2255.74",
+        "val_Impute": "2255.74"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-2",
+        "probe_y": "1",
+        "val": "2221.94",
+        "val_Impute": "2221.94"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-4",
+        "probe_y": "34",
+        "val": "2234.53",
+        "val_Impute": "2234.53"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "-4",
+        "probe_y": "3",
+        "val_Impute": "2216.9992998884"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "10",
+        "probe_y": "33",
+        "val_Impute": "2232.2911886494"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "12",
+        "probe_y": "29",
+        "val_Impute": "2235.8086741722"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "10",
+        "probe_y": "4",
+        "val_Impute": "2249.8719212078"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "12",
+        "probe_y": "8",
+        "val_Impute": "2239.8524801001"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-8",
+        "probe_y": "25",
+        "val_Impute": "2235.1226482335"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-8",
+        "probe_y": "12",
+        "val_Impute": "2218.2050432029"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "6",
+        "probe_y": "37",
+        "val_Impute": "2235.4602692751"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "6",
+        "probe_y": "0",
+        "val_Impute": "2251.9834301778"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "13",
+        "probe_y": "26",
+        "val_Impute": "2239.7172792446"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "13",
+        "probe_y": "11",
+        "val_Impute": "2238.0813255766"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-1",
+        "probe_y": "37",
+        "val_Impute": "2250.0217517952"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-1",
+        "probe_y": "0",
+        "val_Impute": "2228.3333192619"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "3",
+        "probe_y": "38",
+        "val_Impute": "2241.2259590956"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-5",
+        "probe_y": "33",
+        "val_Impute": "2246.9091049677"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "3",
+        "probe_y": "-1",
+        "val_Impute": "2248.2899326847"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "2",
+        "probe_y": "38",
+        "val_Impute": "2242.8481109917"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-5",
+        "probe_y": "4",
+        "val_Impute": "2215.0911646132"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "t",
+        "probe_x": "2",
+        "probe_y": "-1",
+        "val_Impute": "2243.3837000583"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-7",
+        "probe_y": "29",
+        "val_Impute": "2240.9972584468"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-7",
+        "probe_y": "8",
+        "val_Impute": "2214.650211887"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "4",
+        "probe_y": "38",
+        "val_Impute": "2239.7531358285"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "4",
+        "probe_y": "-1",
+        "val_Impute": "2250.752470971"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "1",
+        "probe_y": "38",
+        "val_Impute": "2244.2701384679"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "1",
+        "probe_y": "-1",
+        "val_Impute": "2238.4073518588"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "19",
+        "val_Impute": "2239.5460498683"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "18",
+        "val_Impute": "2239.0007112327"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-8",
+        "probe_y": "26",
+        "val_Impute": "2236.1012673374"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-8",
+        "probe_y": "11",
+        "val_Impute": "2217.4415759406"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "20",
+        "val_Impute": "2240.2554799821"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "17",
+        "val_Impute": "2238.62713764"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "8",
+        "probe_y": "36",
+        "val_Impute": "2230.5172800909"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "8",
+        "probe_y": "1",
+        "val_Impute": "2252.9654428538"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "21",
+        "val_Impute": "2241.0633215165"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "16",
+        "val_Impute": "2238.4122734257"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "12",
+        "probe_y": "30",
+        "val_Impute": "2235.6831646619"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "12",
+        "probe_y": "7",
+        "val_Impute": "2241.5848132842"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "5",
+        "probe_y": "38",
+        "val_Impute": "2237.823582389"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "5",
+        "probe_y": "-1",
+        "val_Impute": "2252.4382978425"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-3",
+        "probe_y": "36",
+        "val_Impute": "2249.3248618004"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-3",
+        "probe_y": "1",
+        "val_Impute": "2221.4315585595"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "19",
+        "val_Impute": "2227.1478520714"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "18",
+        "val_Impute": "2225.2783712882"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "0",
+        "probe_y": "38",
+        "val_Impute": "2246.4268758207"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "0",
+        "probe_y": "-1",
+        "val_Impute": "2234.1449122131"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "7",
+        "probe_y": "37",
+        "val_Impute": "2232.5936945573"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "22",
+        "val_Impute": "2241.8238691794"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "15",
+        "val_Impute": "2238.3587446595"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "7",
+        "probe_y": "0",
+        "val_Impute": "2252.8542717512"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "20",
+        "val_Impute": "2228.7829072827"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "17",
+        "val_Impute": "2223.4394966713"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "10",
+        "probe_y": "34",
+        "val_Impute": "2231.7777310435"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "10",
+        "probe_y": "3",
+        "val_Impute": "2251.1374682505"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-2",
+        "probe_y": "37",
+        "val_Impute": "2249.8262452063"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-2",
+        "probe_y": "0",
+        "val_Impute": "2225.2835912662"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "21",
+        "val_Impute": "2230.039908716"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-7",
+        "probe_y": "30",
+        "val_Impute": "2241.4909265362"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "16",
+        "val_Impute": "2221.9221548834"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-7",
+        "probe_y": "7",
+        "val_Impute": "2214.9528063297"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "23",
+        "val_Impute": "2242.451139976"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "14",
+        "val_Impute": "2238.4396733578"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-5",
+        "probe_y": "34",
+        "val_Impute": "2245.6736945293"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "22",
+        "val_Impute": "2230.9907895821"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "15",
+        "val_Impute": "2220.9234203395"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-5",
+        "probe_y": "3",
+        "val_Impute": "2216.3544750786"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "6",
+        "probe_y": "38",
+        "val_Impute": "2235.1757008214"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "6",
+        "probe_y": "-1",
+        "val_Impute": "2253.159750465"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-1",
+        "probe_y": "38",
+        "val_Impute": "2247.8527845105"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "24",
+        "val_Impute": "2242.6725646704"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "13",
+        "val_Impute": "2238.5876569094"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-1",
+        "probe_y": "-1",
+        "val_Impute": "2230.3236590079"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "23",
+        "val_Impute": "2231.7689090855"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "14",
+        "val_Impute": "2220.2824127008"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "24",
+        "val_Impute": "2232.4992089838"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "13",
+        "val_Impute": "2219.7633399177"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "8",
+        "probe_y": "37",
+        "val_Impute": "2231.0369269068"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "8",
+        "probe_y": "0",
+        "val_Impute": "2253.6339655907"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "25",
+        "val_Impute": "2242.227624175"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "12",
+        "val_Impute": "2238.7416986214"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-3",
+        "probe_y": "37",
+        "val_Impute": "2247.9370626667"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-3",
+        "probe_y": "0",
+        "val_Impute": "2223.1079007721"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "7",
+        "probe_y": "38",
+        "val_Impute": "2232.8407197604"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "7",
+        "probe_y": "-1",
+        "val_Impute": "2253.7321508449"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "25",
+        "val_Impute": "2233.2549572191"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "-9",
+        "probe_y": "12",
+        "val_Impute": "2219.2728905919"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-2",
+        "probe_y": "38",
+        "val_Impute": "2247.8633884832"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-2",
+        "probe_y": "-1",
+        "val_Impute": "2227.1521754911"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "26",
+        "val_Impute": "2241.4018424691"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "p",
+        "probe_x": "14",
+        "probe_y": "11",
+        "val_Impute": "2238.9205716136"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-9",
+        "probe_y": "26",
+        "val_Impute": "2233.9780448893"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-9",
+        "probe_y": "11",
+        "val_Impute": "2218.8194167306"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "8",
+        "probe_y": "38",
+        "val_Impute": "2231.4799558195"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "8",
+        "probe_y": "-1",
+        "val_Impute": "2254.1122820662"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-3",
+        "probe_y": "38",
+        "val_Impute": "2246.5065830618"
+    },
+    {
+        "lot": "ABC1234.081",
+        "wafer": "0603-13",
+        "die_attribute": "v",
+        "probe_x": "-3",
+        "probe_y": "-1",
+        "val_Impute": "2224.7471701576"
+    }
+]

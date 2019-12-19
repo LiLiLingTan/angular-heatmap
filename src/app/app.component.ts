@@ -1,5 +1,6 @@
 import { Component } from "@angular/core";
 import * as Highcharts from "highcharts";
+import { ConfigService } from './config.service';
 
 declare var require: any;
 const heatMap = require("highcharts/modules/heatmap.src");
@@ -21,10 +22,17 @@ export class AppComponent {
   chart: Highcharts.Chart;
   chart2: Highcharts.Chart;
   chart3: Highcharts.Chart;
-  gender: any;
+  mode: any;
+  contourData: any;
+  contourMin: any;
+  contourMax: any;
+  constructor(private config: ConfigService) { }
 
   ngOnInit() {
+    this.mode = 'contour';
+    console.log(`Mode is: ${this.mode}`);
     this.init();
+    this.initContour();
   }
 
   init() {
@@ -231,6 +239,13 @@ export class AppComponent {
     });
   }
 
+  initContour() {
+    this.config.getData().subscribe(data => {
+      this.contourData = data;
+      console.log('testing');
+    });
+  }
+
   getSVG(charts: Highcharts.Chart[]) {
     const svgArr = [];
     let top = 0;
@@ -281,5 +296,19 @@ export class AppComponent {
     Highcharts.downloadSVGLocal(svgStr, options, function() {
       console.log("Failed to export on client side");
     });
+  }
+
+  onChangeMode() {
+    if (this.mode === 'contour') {
+      this.chart.container.hidden = true;
+      this.chart2.container.hidden = true;
+      this.chart3.container.hidden = true;
+    } 
+    if (this.mode === 'simple') {
+      this.chart.container.hidden = false;
+      this.chart2.container.hidden = false;
+      this.chart3.container.hidden = false;
+    }
+    console.log(this.mode);
   }
 }

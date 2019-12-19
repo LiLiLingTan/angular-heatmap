@@ -1,11 +1,15 @@
 <button (click)="onClickExport()">Export</button>
 <div>
-  <input id="male" type="radio" class="custom-control-input" value="male" name="gender" ngModel required>
-  <label class="custom-control-label" for="male">Male</label>
+  <input id="simple" type="radio" class="custom-control-input" value="simple" name="mode" [(ngModel)]="mode" (change)="onChangeMode()" required>
+  <label class="custom-control-label" for="simple">Simple</label>
+  <input id="contour" type="radio" class="custom-control-input" value="contour" name="mode" [(ngModel)]="mode" (change)="onChangeMode()" required>
+  <label class="custom-control-label" for="contour">Contour</label>
 </div>
-<div>
-  {{gender}}
-</div>
+
 <div id="container" class="container"></div>
 <div id="container2" class="container"></div>
 <div id="container3" class="container"></div>
+
+<div *ngIf="mode === 'contour'">
+  <lib-sigma-contourplot [data]="contourData" [minColor]="contourMin" [maxColor]="contourMax"></lib-sigma-contourplot>
+</div>
