@@ -35,8 +35,8 @@ export class SigmaContourplotComponent {
   @Input() legendOnly = false; // default false.
   @Input() minColor: number;
   @Input() maxColor: number;
-  @ViewChild('containerAct', {static: false}) actualDiv: ElementRef;
-  @ViewChild('containerImp',  {static: false}) imputeDiv: ElementRef;
+  @ViewChild('containerAct') actualDiv: ElementRef;
+  @ViewChild('containerImp') imputeDiv: ElementRef;
   contourPlot: any;
   contourPlotAct: any;
   lotId: string;

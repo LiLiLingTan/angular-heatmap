@@ -1,6 +1,7 @@
 import { Component } from "@angular/core";
 import * as Highcharts from "highcharts";
 import { ConfigService } from './config.service';
+import { SigmaContourplotComponent } from './contour-map/contour-map.component';
 
 declare var require: any;
 const heatMap = require("highcharts/modules/heatmap.src");
@@ -29,7 +30,7 @@ export class AppComponent {
   constructor(private config: ConfigService) { }
 
   ngOnInit() {
-    this.mode = 'contour';
+    this.mode = 'simple';
     console.log(`Mode is: ${this.mode}`);
     this.init();
     this.initContour();
@@ -242,7 +243,11 @@ export class AppComponent {
   initContour() {
     this.config.getData().subscribe(data => {
       this.contourData = data;
-      console.log('testing');
+      console.log(JSON.stringify(this.contourData[0]));
+      const imputeValues = this.contourData.map(x => parseFloat(x['val_Impute']));
+      this.contourMin = Math.min.apply(null, imputeValues);
+      this.contourMax = Math.max.apply(null, imputeValues);
+      console.log(`ColorMin: ${this.contourMin}, ColorMax: ${this.contourMax}`);
     });
   }
 
